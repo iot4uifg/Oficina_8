@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME  "MatheusYL"
-#define IO_KEY       "aio_oNer08EF4UsqU6NGxMjyL7VshDPd"
+#define IO_USERNAME  "AdafruitIO_Username"
+#define IO_KEY       "AdafruitIO_Key"
 
 /******************************* WIFI **************************************/
 
@@ -20,8 +20,8 @@
 //   - Adafruit AirLift Shield -> https://www.adafruit.com/product/4285
 //   - Adafruit AirLift FeatherWing -> https://www.adafruit.com/product/4264
 
-#define WIFI_SSID "VIVOFIBRA-D921"
-#define WIFI_PASS "ctaDtZj67X"
+#define WIFI_SSID "Wifi_SSID"
+#define WIFI_PASS "Wifi_PASSWORD"
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
